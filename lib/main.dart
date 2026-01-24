@@ -39,7 +39,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
-        home:  Week1Screen(), //tuan 1
+      // home:  Week1Screen(), //tuan 1
+        home:  Week2Screen(), //tuan 2
       // home: Practice3Screen(), 
       //home: EmailValidationScreen(), // tuan 3
       // home: EmailValidationScreen(), // tuan 3
