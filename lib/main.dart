@@ -40,10 +40,9 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       // home:  Week1Screen(), //tuan 1
-        home:  Week2Screen(), //tuan 2
+      // home:  Week2Screen(), //tuan 2
       // home: Practice3Screen(), 
-      //home: EmailValidationScreen(), // tuan 3
-      // home: EmailValidationScreen(), // tuan 3
+      home: EmailValidationScreen(), // tuan 3
       // home: const PaymentScreen(), //tuan 3
       // home: const LibraryManagementScreen(), //tuan 3
       //  home: const UiFirstApp(), //tuan 4
