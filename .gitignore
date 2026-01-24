@@ -3,6 +3,7 @@
 # ===============================
 .dart_tool/
 .packages
+node_modules/
 .pub-cache/
 .pub/
 build/
