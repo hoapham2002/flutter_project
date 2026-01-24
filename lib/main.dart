@@ -51,8 +51,8 @@ class MyApp extends StatelessWidget {
       // home: const NavigationOop(), //tuan 5
       // home: const DataFlowNavigation(), //tuan 5
       // home:  FirebasePracticeScreen(), //tuan 6
-       home:  CallApi(), //tuan 7
-      //  home:  SmartTaskScreen(), //tuan 8
+      // home:  CallApi(), //tuan 7
+        home:  SmartTaskScreen(), //tuan 8
     );
   }
 }
