@@ -42,10 +42,10 @@ class MyApp extends StatelessWidget {
       // home:  Week1Screen(), //tuan 1
       // home:  Week2Screen(), //tuan 2
       // home: Practice3Screen(), 
-      home: EmailValidationScreen(), // tuan 3
+      // home: EmailValidationScreen(), // tuan 3
       // home: const PaymentScreen(), //tuan 3
       // home: const LibraryManagementScreen(), //tuan 3
-      //  home: const UiFirstApp(), //tuan 4
+        home: const UiFirstApp(), //tuan 4
       //  home: const ListUiComponent(), //tuan 4
       // home: const Lazy_column(), //tuan 5
       // home: const NavigationOop(), //tuan 5
