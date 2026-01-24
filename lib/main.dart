@@ -50,8 +50,8 @@ class MyApp extends StatelessWidget {
       // home: const Lazy_column(), //tuan 5
       // home: const NavigationOop(), //tuan 5
       // home: const DataFlowNavigation(), //tuan 5
-       home:  FirebasePracticeScreen(), //tuan 6
-      // home:  CallApi(), //tuan 7
+      // home:  FirebasePracticeScreen(), //tuan 6
+       home:  CallApi(), //tuan 7
       //  home:  SmartTaskScreen(), //tuan 8
     );
   }
