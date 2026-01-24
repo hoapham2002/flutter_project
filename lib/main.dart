@@ -45,9 +45,9 @@ class MyApp extends StatelessWidget {
       // home: EmailValidationScreen(), // tuan 3
       // home: const PaymentScreen(), //tuan 3
       // home: const LibraryManagementScreen(), //tuan 3
-        home: const UiFirstApp(), //tuan 4
+      //  home: const UiFirstApp(), //tuan 4
       //  home: const ListUiComponent(), //tuan 4
-      // home: const Lazy_column(), //tuan 5
+       home: const Lazy_column(), //tuan 5
       // home: const NavigationOop(), //tuan 5
       // home: const DataFlowNavigation(), //tuan 5
       // home:  FirebasePracticeScreen(), //tuan 6
