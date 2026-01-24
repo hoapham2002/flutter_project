@@ -47,10 +47,10 @@ class MyApp extends StatelessWidget {
       // home: const LibraryManagementScreen(), //tuan 3
       //  home: const UiFirstApp(), //tuan 4
       //  home: const ListUiComponent(), //tuan 4
-       home: const Lazy_column(), //tuan 5
+      // home: const Lazy_column(), //tuan 5
       // home: const NavigationOop(), //tuan 5
       // home: const DataFlowNavigation(), //tuan 5
-      // home:  FirebasePracticeScreen(), //tuan 6
+       home:  FirebasePracticeScreen(), //tuan 6
       // home:  CallApi(), //tuan 7
       //  home:  SmartTaskScreen(), //tuan 8
     );
