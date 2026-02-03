@@ -16,6 +16,7 @@ import 'week5/week5_data_flow_navigation.dart';
 import 'week6/week6_google.dart';
 import 'week7/week7-callApi.dart';
 import 'week8/week8_screen_smart_task.dart';
+import 'week9/views/task_list_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -52,7 +53,8 @@ class MyApp extends StatelessWidget {
       // home: const DataFlowNavigation(), //tuan 5
       // home:  FirebasePracticeScreen(), //tuan 6
       // home:  CallApi(), //tuan 7
-        home:  SmartTaskScreen(), //tuan 8
+      //  home:  SmartTaskScreen(), //tuan 8
+      home: const TaskListPage(), //tuan 9
     );
   }
 }
